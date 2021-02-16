@@ -1,0 +1,4 @@
+.custom-card {
+    display: flex;
+    flex-direction: row;
+}

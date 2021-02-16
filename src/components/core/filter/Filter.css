@@ -1,0 +1,7 @@
+.custom-filter {
+    border-radius: 20px;
+}
+.filter-allover{
+    display: flex;
+    justify-content: space-around;
+}
